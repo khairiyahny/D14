@@ -1,0 +1,264 @@
+@media all and (max-width:1000px) {
+    .main-iklan h1 {
+        text-align: left;
+        font-size: 50px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .ongkir {
+        top: 30px;
+    }
+
+    .ongkir p {
+        font-size: 40px;
+    }
+
+    .promo {
+        width: 60%;
+    }
+
+    .promo p {
+        margin-left: 100px;
+        position: relative;
+        margin-top: 30px;
+        font-size: 25px;
+    }
+
+    .promo a {
+        position: absolute;
+        margin-left: 10px;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+
+    .contents-item h2 {
+        width: 200px;
+    }
+
+    .contents-segment {
+        margin-right: 50px;
+        width: 200px;
+        height: 480px;
+    }
+
+    .contents-item img {
+        width: 200px;
+    }
+
+    .contents-item p {
+        margin: 10px;
+    }
+
+    .facebook {
+        padding: 25px;
+    }
+
+    .twitter {
+        padding: 25px;
+    }
+
+    .youtube {
+        padding: 25px;
+    }
+
+    .instagram {
+        padding: 25px;
+    }
+
+    .tempat-logo img {
+        margin-left: 42%;
+    }
+}
+
+@media all and (max-width: 680px) {
+    .main-iklan h1 {
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .main-iklan h2 {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .container {
+        width: 100%;
+        height: 300px;
+    }
+
+    .ongkir {
+        top: 56%;
+        right: 20%;
+        bottom: 10%;
+    }
+
+    .ongkir p {
+        font-size: 20px;
+    }
+
+    .ongkir span {
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    .promo {
+        float: left;
+        width: 120%;
+    }
+
+    .promo p {
+        position: relative;
+        margin-left: 250px;
+        padding-top: 30px;
+        font-size: 20px;
+    }
+
+    .promo a {
+        position: absolute;
+        margin-top: 50px;
+        margin-right: 160px;
+        font-size: 15px;
+    }
+
+    .contents-segment {
+        width: 33%;
+        margin-bottom: 30px;
+        margin-left: 50px;
+    }
+
+    .contents-item h2 {
+        width: 260px;
+    }
+	
+	footer {
+		margin-top:1100px
+	}
+    .contents-segment {
+        width: 260px;
+    }
+
+    .contents-item img {
+        width: 260px;
+    }
+
+    .facebook {
+        padding: 25px;
+    }
+
+    .twitter {
+        padding: 25px;
+    }
+
+    .youtube {
+        padding: 25px;
+    }
+
+    .instagram {
+        padding: 25px;
+    }
+
+    .tempat-logo img {
+        margin-left: 35%;
+    }
+}
+
+
+
+@media all and (max-width: 350px) {
+    .main-iklan h1 {
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .main-iklan h2 {
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .container {
+        width: 100%;
+        height: 300px;
+    }
+
+    .ongkir {
+        top: 56%;
+        right: 20%;
+        bottom: 10%;
+    }
+
+    .ongkir p {
+        font-size: 20px;
+    }
+
+    .ongkir span {
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    .promo {
+        float: left;
+        width: 120%;
+    }
+
+    .promo p {
+        position: relative;
+        margin-left: 250px;
+        padding-top: 30px;
+        font-size: 20px;
+    }
+
+    .promo a {
+        position: absolute;
+        margin-top: 50px;
+        margin-right: 160px;
+        font-size: 15px;
+    }
+
+    .contents-segment {
+        width: 33%;
+        margin-bottom: 30px;
+        margin-left: 50px;
+    }
+
+    .contents-item h2 {
+        width: 260px;
+    }
+	
+	footer {
+		margin-top:1100px
+	}
+    .contents-segment {
+        width: 260px;
+    }
+
+    .contents-item img {
+        width: 260px;
+    }
+
+    .facebook {
+        padding:20px 15px;
+        font-size:10px;
+    }
+
+    .twitter {
+        padding:20px 15px;
+        font-size:10px;
+    }
+
+    .youtube {
+        padding:20px 15px;
+        font-size:10px;
+    }
+
+    .instagram {
+        padding:20px 15px;
+        font-size:10px;
+    }
+
+    .tempat-logo img {
+        margin-left: 25%;
+    }
+}
